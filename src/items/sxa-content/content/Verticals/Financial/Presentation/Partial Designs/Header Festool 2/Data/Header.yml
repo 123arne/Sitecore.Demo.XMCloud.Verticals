@@ -1,0 +1,27 @@
+﻿---
+ID: "e0e805f6-c15e-4d16-b3f3-e5cc6d86c014"
+Parent: "9da63c64-2f33-4b8f-8040-95e03c6d8633"
+Template: "0da7aa52-0c24-4721-9b6c-f6d8d9faaaa0"
+Path: /sitecore/content/Verticals/Financial/Presentation/Partial Designs/Header Festool 2/Data/Header
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8b604cba-fd35-4432-90c1-91399c77a138"
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "dacbc099-20fe-463e-8fac-576a54b64945"
+- Language: "ja-JP"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "dacbc099-20fe-463e-8fac-576a54b64945"

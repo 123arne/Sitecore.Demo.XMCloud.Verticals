@@ -1,0 +1,20 @@
+﻿---
+ID: "c5afb738-cd9b-445d-a307-cd2079dbf9a9"
+Parent: "9da63c64-2f33-4b8f-8040-95e03c6d8633"
+Template: "0a7aa373-5ed1-4e9b-9678-22d3c5faf6df"
+Path: /sitecore/content/Verticals/Financial/Presentation/Partial Designs/Header Festool 2/Data/Text 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "729034fc-24f3-40b7-8fa4-fb49d7de20dd"
+      Hint: Text
+      Value: |
+        <div class="ck-content"><figure class="image"><a href="https://ars-vert-xmc2-xkfhffdeu0acxqaxpf6lig-financial.vercel.app/"><img style="aspect-ratio: 1024 / 135; height: 16px; width: 120px;" src="-/media/619A88AC9E98408F958F3651C0C741E4.ashx?h=16&amp;w=120" alt="f logo" /></a></figure></div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0c286d06-9530-4526-b97d-5607670db1b5"

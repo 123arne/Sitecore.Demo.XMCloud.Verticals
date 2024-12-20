@@ -1,0 +1,22 @@
+﻿---
+ID: "8192dd38-d322-43de-ba5e-c0a3e3200dfa"
+Parent: "aea93fa8-453d-439b-9dcd-02648554f0e4"
+Template: "0a7aa373-5ed1-4e9b-9678-22d3c5faf6df"
+Path: /sitecore/content/Verticals/Financial/Home/Fan Merchandise/Data/Tagline
+BranchID: "5914dab5-7831-494e-ac68-b9e3a207a42f"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{A2AB72A6-73C2-4274-9088-90422E659E5F}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "729034fc-24f3-40b7-8fa4-fb49d7de20dd"
+      Hint: Text
+      Value: |
+        <h2>Take hold of your finances,<em style="color: var(--bg-accent);"> take hold of your life.</em></h2>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "069f278e-d28a-40c1-afce-fe1a24ef48b8"

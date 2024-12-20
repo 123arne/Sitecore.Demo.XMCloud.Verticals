@@ -1,0 +1,20 @@
+﻿---
+ID: "9c627b1f-2b0f-453b-9073-392329ff79dd"
+Parent: "2c311550-04cc-422e-bad6-e2874dce17fb"
+Template: "d885df8c-b2d6-4007-b34b-2bbafb527304"
+Path: /sitecore/content/Verticals/Financial/Presentation/Partial Designs/Header Festool/Data/Image 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "57caf172-ce57-4e48-b3a1-46f8aea71c08"
+      Hint: Image
+      Value: |
+        <image mediaid="619a88ac-9e98-408f-958f-3651c0c741e4" alt="" height="17" width="130" hspace="" vspace="" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6e57396e-5765-4d8d-bbb6-82f4fbf4177f"

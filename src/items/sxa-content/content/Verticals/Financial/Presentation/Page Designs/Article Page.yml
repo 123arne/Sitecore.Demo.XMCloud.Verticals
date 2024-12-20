@@ -6,7 +6,7 @@ Path: /sitecore/content/Verticals/Financial/Presentation/Page Designs/Article Pa
 SharedFields:
 - ID: "0966b999-0d0e-4278-acc9-9da69d461fe6"
   Hint: PartialDesigns
-  Value: "{3DB7D8C4-D4EF-4AF1-BD48-A0F25C3D7872}|{8973D2A4-2A8D-4574-9145-CA792B950BBA}|{2FA09ECC-E4F8-4A1E-AA8C-43768EC36B5B}"
+  Value: "c7ed2f28-a28e-4076-873b-327b4cc61ad9|8973d2a4-2a8d-4574-9145-ca792b950bba|e8d16291-dff2-4ad6-a182-76bb069e64a7"
 - ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
   Hint: __Thumbnail
   Value: |
@@ -18,4 +18,4 @@ Languages:
     Fields:
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "f336e2c9-5d97-434b-b89b-d82b29b26785"
+      Value: "e9b1fd4c-5e0a-400a-9960-b6126c0daaa3"

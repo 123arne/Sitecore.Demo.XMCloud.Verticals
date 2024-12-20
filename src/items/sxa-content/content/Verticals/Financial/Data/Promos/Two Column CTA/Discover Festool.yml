@@ -1,0 +1,31 @@
+﻿---
+ID: "c7cd7528-084b-40fb-ac43-0d27e032312c"
+Parent: "8237a426-6c6a-4564-ab35-a6066a050f2e"
+Template: "1812bf3e-6bdd-466d-99b2-0d7cebb020fc"
+Path: /sitecore/content/Verticals/Financial/Data/Promos/Two Column CTA/Discover Festool
+SharedFields:
+- ID: "168fed07-0f41-44f5-a14e-f134e16b1477"
+  Hint: Image1
+  Value: |
+    <image mediaid="{377917AA-D6B9-45AF-AA66-E91BDEBFE79A}" alt="ready 18v" height="" width="" hspace="" vspace="" />
+- ID: "41c85ac6-5f19-48ac-9dfb-e81d5f1450f6"
+  Hint: Image2
+  Value: |
+    <image mediaid="{EC2DE9A7-7D4B-4558-9DBD-6476D34A743A}" alt="dust free" height="" width="" hspace="" vspace="" />
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "4e43fdc3-7a40-469c-a93a-231545ee01e9"
+      Hint: Title1
+      Value: 18V Portfolio
+    - ID: "56a3b6a6-bd8b-4d2e-a86d-f791169ebe7b"
+      Hint: Title2
+      Value: Healthy working with a system.
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0e639c09-1747-4c04-8c89-11828233f4f9"
+    - ID: "eeb59bf3-72d2-4e49-9a37-3902b7a236a9"
+      Hint: Text2
+      Value: Fighting dust together.

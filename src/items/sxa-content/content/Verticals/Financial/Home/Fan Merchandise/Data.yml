@@ -1,0 +1,18 @@
+﻿---
+ID: "aea93fa8-453d-439b-9dcd-02648554f0e4"
+Parent: "7525f75c-388f-4509-b8d9-927d03f1f203"
+Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
+Path: /sitecore/content/Verticals/Financial/Home/Fan Merchandise/Data
+BranchID: "5914dab5-7831-494e-ac68-b9e3a207a42f"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{44BDD51E-0A53-4EB3-AFA6-F91ADC98BDFA}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2e81c4a0-73cc-43dc-acbf-d9e39067c991"

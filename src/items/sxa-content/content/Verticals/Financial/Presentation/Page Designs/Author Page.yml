@@ -6,7 +6,7 @@ Path: /sitecore/content/Verticals/Financial/Presentation/Page Designs/Author Pag
 SharedFields:
 - ID: "0966b999-0d0e-4278-acc9-9da69d461fe6"
   Hint: PartialDesigns
-  Value: "{3DB7D8C4-D4EF-4AF1-BD48-A0F25C3D7872}|{0A960855-C92C-4666-8FF8-A6EC784A6E55}|{2FA09ECC-E4F8-4A1E-AA8C-43768EC36B5B}"
+  Value: "fdd35414-8746-4824-b074-fe6570e2cc06|0a960855-c92c-4666-8ff8-a6ec784a6e55|2fa09ecc-e4f8-4a1e-aa8c-43768ec36b5b"
 - ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
   Hint: __Thumbnail
   Value: |
@@ -18,7 +18,7 @@ Languages:
     Fields:
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "9e903983-03d4-4aa6-86e5-6f2607688171"
+      Value: "df6ded8d-9979-490c-8f18-67b50b7ae68f"
 - Language: "fr-CA"
   Versions:
   - Version: 1

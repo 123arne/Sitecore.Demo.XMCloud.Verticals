@@ -1,0 +1,13 @@
+﻿---
+ID: "47581ae1-b6bb-410d-9ee6-849d0c6cf1d6"
+Parent: "5109a19b-e647-4ef6-9b82-c6d8645fed58"
+Template: "1812bf3e-6bdd-466d-99b2-0d7cebb020fc"
+Path: /sitecore/content/Verticals/Financial/Home/Data/Two Column CTA 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "772987c9-1314-4b3a-89bb-1d2cfd7d60f9"

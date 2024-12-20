@@ -1,0 +1,13 @@
+﻿---
+ID: "225d1105-bacc-4458-88ac-e9c95746e413"
+Parent: "eee2c54e-1bc8-4b72-bb26-1ea80c093a30"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/Project/Verticals/Financial/Festool
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "be239d45-5eb2-46ca-9a8f-8ac68dfeb871"

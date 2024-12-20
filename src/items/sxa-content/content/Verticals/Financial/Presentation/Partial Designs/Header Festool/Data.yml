@@ -1,0 +1,32 @@
+﻿---
+ID: "2c311550-04cc-422e-bad6-e2874dce17fb"
+Parent: "fdd35414-8746-4824-b074-fe6570e2cc06"
+Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
+Path: /sitecore/content/Verticals/Financial/Presentation/Partial Designs/Header Festool/Data
+BranchID: "c755de9b-1e44-4c8f-b830-168212b57fe7"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{F526FC92-9C83-4135-AE12-82EAEF5ED796}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "04f2324c-397d-41ef-a1c3-55f5945af27a"
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "445b9715-e061-4186-9d1b-17b53e2e987b"
+- Language: "ja-JP"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "445b9715-e061-4186-9d1b-17b53e2e987b"

@@ -1,0 +1,18 @@
+﻿---
+ID: "408b70e1-01f3-45a0-a18e-6f75fac6b471"
+Parent: "671b04c8-ac11-43d9-9ef5-c2989b6680dd"
+Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
+Path: /sitecore/content/Verticals/Financial/Home/Applications/Data
+BranchID: "5914dab5-7831-494e-ac68-b9e3a207a42f"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{44BDD51E-0A53-4EB3-AFA6-F91ADC98BDFA}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7cc72dd3-a254-4c37-99fb-d962cdc14068"

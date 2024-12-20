@@ -1,0 +1,18 @@
+﻿---
+ID: "b0203ab5-a18b-40cf-b12c-88f725332e1d"
+Parent: "9ad71a59-fd18-41d8-b174-82d819ccf710"
+Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
+Path: /sitecore/content/Verticals/Financial/Home/MyFestool/Data
+BranchID: "5914dab5-7831-494e-ac68-b9e3a207a42f"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{44BDD51E-0A53-4EB3-AFA6-F91ADC98BDFA}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "76421857-8bf7-4a0a-8ad1-80229c553414"

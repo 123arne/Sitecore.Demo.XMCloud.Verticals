@@ -1,0 +1,25 @@
+﻿---
+ID: "39dffaf8-93b6-4ea6-ab23-a8a1009b591c"
+Parent: "a12dd951-e364-437c-9bce-9923fcc42479"
+Template: "0a7aa373-5ed1-4e9b-9678-22d3c5faf6df"
+Path: /sitecore/content/Verticals/Financial/Home/Accessories/Data/Rich text
+BranchID: "5914dab5-7831-494e-ac68-b9e3a207a42f"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{8B410AD1-C3A3-41BD-BFD5-DE39CC316E62}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "729034fc-24f3-40b7-8fa4-fb49d7de20dd"
+      Hint: Text
+      Value: |
+        <div class="ck-content"><p>You can rely on Festool accessories to get ahead. Our wide range of solutions meets your individual requirements and optimally supports you in every application. Our selection of over 1700 products expands your possible applications and has exactly the accessory you are looking for, for every requirement. This provides you with greater flexibility and enables you to even tackle more complex tasks with the best possible result.</p></div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0882c063-d6dd-4890-9998-fdfac1c252cd"

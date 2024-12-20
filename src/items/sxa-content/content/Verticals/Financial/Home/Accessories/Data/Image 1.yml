@@ -1,0 +1,20 @@
+﻿---
+ID: "0b90dbea-c4d4-4aa3-8206-27c3538ae6e8"
+Parent: "a12dd951-e364-437c-9bce-9923fcc42479"
+Template: "d885df8c-b2d6-4007-b34b-2bbafb527304"
+Path: /sitecore/content/Verticals/Financial/Home/Accessories/Data/Image 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "57caf172-ce57-4e48-b3a1-46f8aea71c08"
+      Hint: Image
+      Value: |
+        <image mediaid="a4a838a4-61f5-4ab8-bf71-f81df06d366f" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "04b88b5f-d1db-4592-bf90-86be9512e196"

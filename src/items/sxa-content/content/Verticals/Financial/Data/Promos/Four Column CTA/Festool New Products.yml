@@ -1,0 +1,54 @@
+﻿---
+ID: "8e43e60c-79c8-47fe-b2f9-c0de2afabfe8"
+Parent: "c252a182-50c2-4e48-8515-e86bd96cb5ce"
+Template: "1b694ef9-154d-429a-9c3f-d7774cd4a852"
+Path: /sitecore/content/Verticals/Financial/Data/Promos/Four Column CTA/Festool New Products
+SharedFields:
+- ID: "23f621dd-d403-49df-93f6-391a1757feb3"
+  Hint: Image4
+  Value: |
+    <image mediaid="{26A45B0F-5D5C-4B89-8243-F55765188933}" alt="saw blade" height="" width="" hspace="" vspace="" />
+- ID: "84c2cd69-b897-4e4a-a336-66d3222fe1b5"
+  Hint: Image1
+  Value: |
+    <image mediaid="{B50CB16B-6F4D-4A5D-B917-75E617C680E1}" alt="Joining machine" height="" width="" hspace="" vspace="" />
+- ID: "954a7e15-cdad-4e9c-8949-ab0ee63200c6"
+  Hint: Image3
+  Value: |
+    <image mediaid="{4F1A65F9-CA5B-477D-A778-4A5364A85ED3}" alt="guide rails" height="" width="" hspace="" vspace="" />
+- ID: "a98fc4bc-b088-4296-aa32-fba35f964ebd"
+  Hint: Image2
+  Value: |
+    <image mediaid="{A2670A65-1A75-4DD2-A360-C5570FA7BD8E}" alt="cordless" height="" width="" hspace="" vspace="" />
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "07f3e30f-8075-4c1b-912e-e27fffeda904"
+      Hint: Text1
+      Value: Extra mobile. Extra stable.
+    - ID: "256528b0-4d93-44a1-85c9-0cd544091a3f"
+      Hint: Text4
+      Value: "For high-precision results with every cross cut."
+    - ID: "34f50b54-e781-493a-85c0-8e9af1969d64"
+      Hint: Title3
+      Value: "Guide rail FS 1400/2-KP-Set"
+    - ID: "4e62adbe-4082-45fe-9e77-66ef0945fb18"
+      Hint: Title4
+      Value: Saw blade LAMINATE/HPL HW 216x2,3x30 WZ/FA60
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "779dc639-25de-4b23-90af-fe0035af0fb6"
+    - ID: "8f23bb30-a050-47b3-bc66-6ca478213eef"
+      Hint: Text3
+      Value: Guides you to the perfect result right from the start.
+    - ID: "94e8b735-889e-44f3-a980-c7c8143bae19"
+      Hint: Title2
+      Value: "Cordless sliding compound mitre saw KAPEX KSC 60 EB 5,0 I-Plus"
+    - ID: "be5597c5-a55d-4a6a-bf53-7fe1a7bf4bdc"
+      Hint: Title1
+      Value: "Joining machine DF 700 EQ-Plus DOMINO XL"
+    - ID: "c24d6ca7-49ab-4f08-9dae-e5a844d79139"
+      Hint: Text2
+      Value: "High-precision cross cuts. With battery power for the entire day."

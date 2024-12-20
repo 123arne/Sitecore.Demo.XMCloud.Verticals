@@ -7,6 +7,9 @@ SharedFields:
 - ID: "1ee576af-ba8e-4312-9fbd-2ccf8395baa1"
   Hint: StartItem
   Value: "{B2A38FB8-2E85-4D58-AFE5-C12BECCBEE3A}"
+- ID: "301e719a-6f65-4874-b565-a953a7b5ac83"
+  Hint: OtherProperties
+  Value: isSiteThumbnailSource=false
 - ID: "4e9e2ae5-36db-4955-9af1-5a1934a27c7d"
   Hint: Language Embedding
   Value: 1
@@ -24,7 +27,7 @@ SharedFields:
   Value: 1
 - ID: "8e0dd914-9afb-4d45-bf8b-7ff5d6e5337e"
   Hint: HostName
-  Value: "www.sxastarter.localhost|localhost|verticals-development-financial.vercel.app|verticals-staging-financial.vercel.app"
+  Value: "ars-vert-xmc2-xkfhffdeu0acxqaxpf6lig-financial.vercel.app"
 - ID: "9eaf6dc9-b811-4cda-9edd-9697faba628a"
   Hint: POS
   Value: "en=play-finance&fr=play-finance"
@@ -47,7 +50,7 @@ Languages:
     Fields:
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "a0b931c8-e6a9-476d-95b5-92e92ffc0bd9"
+      Value: "d8a2c31a-4557-4b60-af6e-d3cb161a4372"
     - ID: "96cffc48-0bd5-4f70-9b36-d49c844d51ef"
       Hint: Theme
       Value: Financial

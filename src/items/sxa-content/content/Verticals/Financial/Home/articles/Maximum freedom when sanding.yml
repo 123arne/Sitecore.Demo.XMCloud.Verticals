@@ -1,0 +1,60 @@
+﻿---
+ID: "0f9d3e67-ee19-440b-8a46-f2954110c611"
+Parent: "0b45c71d-61ae-44f3-9f7d-6c88185f0b15"
+Template: "f83ccefd-fc41-4a60-9882-8f7ea5cf41a8"
+Path: /sitecore/content/Verticals/Financial/Home/articles/Maximum freedom when sanding
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{63CC4D0D-63F1-4BFB-BF63-7EC9D231AFA8}"
+- ID: "ad26114f-29dd-4ef9-b5bf-1d64d558872d"
+  Hint: BackgroundImage
+  Value: |
+    <image mediaid="377917aa-d6b9-45af-aa66-e91bdebfe79a" alt="Blurred background image - fountain pen on notebook" height="" width="" hspace="" vspace=""/>
+- ID: "ba2b872d-f67d-40dc-be41-6366b7030144"
+  Hint: Thumbnail
+  Value: |
+    <image mediaid="d0ba89dc-8441-48d3-b129-88b76e029d21" alt="sanding"/>
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 150
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "03117268-f84f-4fd8-ad9e-5990b3a21fe6"
+      Hint: Content
+      Value: |
+        <div class="ck-content"><p><i>Please note that there are different country versions of this press release available (EN | FR | NL | PL |SE | DE).</i><br /><i>Find them in the media set to download.</i></p><p>Whether you are working in a workshop or in hard-to-reach locations, the new ETSC 2 cordless eccentric sander offers maximum freedom of movement when sanding. An integrated LED light ring improves the view of the surface and reveals any unevenness when sanding. Its eccentric sanding motion creates outstanding surface quality – with no need for costly rework. The powerful 4.0 Ah battery enables fast work progress. It is compatible with all 18V cordless tools and chargers. Moreover, its low height means that the ETSC 2 sits optimally in your hand and enables convenient sanding, whether you are working on the plane or overhead.</p><p><br /><strong>Perfect view of the finish</strong></p><p>The integrated LED light ring makes unevenness and surfaces more easily visible. In addition, the integrated LED light and eccentric sanding motion of the ETSC 2 ensure a virtually flawless surface. The lighting can be easily adjusted on the machine or via the Festool app. There are three different light modes on the machine itself – 100% lighting, 50% lighting or switch off. More functions are available via the Festool app, such as infinitely variable dimming and precisely setting the lighting duration. This is perfect for checking the quality of the sanded surface after finishing sanding.</p><p>&nbsp;</p><p><strong>Sanding without a plug socket</strong></p><p>The cordless eccentric sander offers maximum freedom of movement when sanding, without irritating cables getting in the way. The powerful 4.0 Ah battery enables fast work progress and is compatible with 18V cordless tools and chargers. The machine has innovative motor technology, with a brushless EC-TEC motor that is robust and powerful, yet also particularly quiet and low-maintenance. The EC-TEC drive concept, specially developed by Festool, enables tools to deliver power much more effectively whilst reducing energy consumption at the same time. As a result, the EC-TEC motor runs without carbon brushes too, making it wear-free. "EC-TEC combines more power with intelligence and service life," explains Dr. Thomas Kunstfeld, EC-TEC expert in Festool's development department. "The special power electronics only ever generate enough energy for the relevant application. This not only saves energy but also results in a significantly longer performance from one battery charge."</p><p><br /><strong>Designed to ergonomically fit your hand</strong></p><p>Its low height and optimised ergonomics means that the new ETSC 2 sits optimally in your hand. This enables convenient sanding, whether you are working on the plane or overhead and provides you with a perfect feel when sanding – both in narrow areas and for edges. The vibration protection guarantees comfortable work without your hands getting tired too soon. This even allows you to perform overhead sanding work without tiring.</p><p><br /><strong>GRANAT – the all-rounder when it comes to abrasives: New grit in packs of 50</strong></p><p>The GRANAT abrasive is also the right choice for every application for both of the ETSC 2 machines (for diameters of either 125 mm or 150 mm). With a high material removal rate, special anti-settling coating and optimised dust extraction, GRANAT abrasives are all-rounders for a wide range of surfaces. From January 2025, it will also be available in packs of 50 and grit sizes P100, P120, P150, P180, P220, P240, P320, P400 and P500.</p><p><br />Both of the new cordless eccentric sanders have a carbide-tipped sanding pad brake that prevents the sanding pad from revolving too quickly when idling and enables the tool to be applied to a surface without producing scratches. This prevents you from having to rework the finish, which is particularly time-consuming and expensive.<br />Both new products will be available from specialist retailers from February 2025. See www.festool.co.uk for more information.</p><p>&nbsp;</p><p><strong>Technical data – cordless eccentric sanders &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;ETSC 2 125 /150 &nbsp;&nbsp;</strong> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<br />Battery voltage (rated voltage)&nbsp;&nbsp;&nbsp;&nbsp;18 V<br />Battery capacity &nbsp;&nbsp;&nbsp;&nbsp;4 Ah<br />Eccentric motion speed&nbsp;&nbsp;&nbsp;&nbsp;6000-10000 min⁻¹&nbsp;<br />Sanding stroke&nbsp;&nbsp;&nbsp;&nbsp;3,5 mm<br />Replaceable sanding pad diameter &nbsp;&nbsp;&nbsp;&nbsp;125 mm / 150 mm<br />Dust extraction connestion dia.&nbsp;&nbsp;&nbsp;&nbsp;27 mm<br />Technology&nbsp;&nbsp;&nbsp;&nbsp;Bluetooth®&nbsp;<br />Product weight without accessories&nbsp;&nbsp;&nbsp;&nbsp;1,2 kg</p></div>
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{1333C7A2-2A6C-4310-AE74-8D5DE936F8B3}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{13D6CCE7-A6C3-4EE1-A1D9-8A8E34225ED7}"
+    - ID: "3e700dce-26eb-4bf0-990f-9d9fe555990d"
+      Hint: Excerpt
+      Value: The new ETSC 2 cordless eccentric sander.
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Maximum freedom when sanding
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "68794403-d0d1-44ae-baa9-315c732f0389"
+    - ID: "e81c4912-a4d2-4466-842c-02f0b2c9dc42"
+      Hint: Title
+      Value: Maximum freedom when sanding
